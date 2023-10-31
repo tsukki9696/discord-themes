@@ -1,0 +1,31 @@
+/**
+ * @name Adwaita
+ * @description The GTK theme
+ * @author Libadwaita
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 91,200,175;
+  --accentcolor2: 192,97,203;
+  --linkcolor: 28,113,216;
+  --mentioncolor: 230,97,0;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: IBM Plex Sans;
+  --backgroundaccent: 68,68,68;
+  --backgroundprimary: 53,53,53;
+  --backgroundsecondary: 40,40,40;
+  --backgroundsecondaryalt: 40,40,40;
+  --backgroundtertiary: 30,30,30;
+  --backgroundfloating: 30,30,30;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */

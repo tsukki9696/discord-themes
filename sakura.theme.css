@@ -1,0 +1,242 @@
+/**
+ * @name Sakura
+ * @description Discord port of the Sakura colorscheme
+ * @author Stardust-kyun
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 52,65,69;
+  --backgroundprimary: 32,46,50;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 52,65,69;
+  --backgroundprimary: 32,46,50;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 16,31,35;
+  --backgroundprimary: 16,31,35;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 16,31,35;
+  --backgroundprimary: 16,31,35;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 16,31,35;
+  --backgroundprimary: 16,31,35;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 16,31,35;
+  --backgroundprimary: 16,31,35;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 16,31,35;
+  --backgroundprimary: 16,31,35;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: gg sans;
+  --backgroundaccent: 16,31,35;
+  --backgroundprimary: 16,31,35;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 50,125,125;
+  --accentcolor2: 131,73,93;
+  --linkcolor: 55,76,109;
+  --mentioncolor: 130,125,80;
+  --textbrightest: 160,160,180;
+  --textbrighter: 152,152,174;
+  --textbright: 138,138,158;
+  --textdark: 125,125,144;
+  --textdarker: 104,104,120;
+  --textdarkest: 86,86,99;
+  --font: "IBM Plex Sans";
+  --backgroundaccent: 16,31,35;
+  --backgroundprimary: 16,31,35;
+  --backgroundsecondary: 10,25,30;
+  --backgroundsecondaryalt: 10,25,30;
+  --backgroundtertiary: 0,15,20;
+  --backgroundfloating: 0,15,20;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+

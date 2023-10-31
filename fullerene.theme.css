@@ -1,0 +1,31 @@
+/**
+ * @name Fullerene
+ * @description gw's colorscheme
+ * @author Gwynsav
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 193,55,75;
+  --accentcolor2: 191,99,167;
+  --linkcolor: 94,118,222;
+  --mentioncolor: 213,136,72;
+  --textbrightest: 198,198,198;
+  --textbrighter: 168,168,168;
+  --textbright: 141,141,141;
+  --textdark: 92,92,92;
+  --textdarker: 71,71,71;
+  --textdarkest: 61,61,61;
+  --font: "IBM Plex Sans";
+  --backgroundaccent: 31,31,31;
+  --backgroundprimary: 22,22,22;
+  --backgroundsecondary: 15,15,15;
+  --backgroundsecondaryalt: 31,31,31;
+  --backgroundtertiary: 22,22,22;
+  --backgroundfloating: 15,15,15;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */

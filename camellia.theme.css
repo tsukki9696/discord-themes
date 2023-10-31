@@ -1,0 +1,30 @@
+/**
+ * @name Camellia
+ * @description Discord port of the Camellia colorscheme
+ * @author Vixima
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 250,56,103;
+  --accentcolor2: 166,115,235;
+  --linkcolor: 76,178,229;
+  --mentioncolor: 245,202,50;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: "IBM Plex Sans";
+  --backgroundaccent: 105,105,105;
+  --backgroundprimary: 23,24,28;
+  --backgroundsecondary: 38,39,43;
+  --backgroundsecondaryalt: 38,39,43;
+  --backgroundtertiary: 30,31,36;
+  --backgroundfloating: 23,24,28;
+  --settingsicons: 1;
+}
