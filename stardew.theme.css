@@ -1,0 +1,34 @@
+/**
+ * @name Stardew
+ * @description Sammyette's colorscheme
+ * @author TorchedSammy
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 184,122,255;
+  --accentcolor2: 241,122,198;
+  --linkcolor: 122,170,255;
+  --mentioncolor: 255,156,106;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: "IBM Sans Plex";
+  --backgroundaccent: 55,55,64;
+  --backgroundprimary: 42,42,48;
+  --backgroundsecondary: 33,33,38;
+  --backgroundsecondaryalt: 33,33,38;
+  --backgroundtertiary: 22,22,26;
+  --backgroundfloating: 22,22,26;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
