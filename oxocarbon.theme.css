@@ -10,25 +10,22 @@
 
 :root {
   --accentcolor: 190,149,255;
-  --accentcolor2: 255,126,182;
-  --linkcolor: 61,219,217;
+  --accentcolor2: 238,83,150;
+  --linkcolor: 8,189,186;
   --mentioncolor: 66,190,101;
   --textbrightest: 255,255,255;
-  --textbrighter: 242,244,248;
+  --textbrighter: 222,222,222;
   --textbright: 185,185,185;
   --textdark: 140,140,140;
   --textdarker: 115,115,115;
   --textdarkest: 80,80,80;
-  --font: "IBM Plex Sans";
-  --backgroundaccent: 38,38,38;
-  --backgroundprimary: 22,22,22;
+  --font: IBM Plex Sans;
+  --backgroundaccent: 57,57,57;
+  --backgroundprimary: 57,57,57;
   --backgroundsecondary: 38,38,38;
-  --backgroundsecondaryalt: 57,57,57;
+  --backgroundsecondaryalt: 38,38,38;
   --backgroundtertiary: 22,22,22;
-  --backgroundfloating: 82,82,82;
+  --backgroundfloating: 22,22,22;
   --settingsicons: 1;
 }
-
-/* Any custom CSS below here */
-
 
