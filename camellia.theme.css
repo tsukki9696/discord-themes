@@ -19,12 +19,14 @@
   --textdark: 140,140,140;
   --textdarker: 115,115,115;
   --textdarkest: 80,80,80;
-  --font: "IBM Plex Sans";
-  --backgroundaccent: 105,105,105;
-  --backgroundprimary: 23,24,28;
-  --backgroundsecondary: 38,39,43;
-  --backgroundsecondaryalt: 38,39,43;
-  --backgroundtertiary: 30,31,36;
+  --font: IBM Plex Sans;
+  --backgroundaccent: 51,52,56;
+  --backgroundprimary: 38,39,43;
+  --backgroundsecondary: 30,31,36;
+  --backgroundsecondaryalt: 30,31,36;
+  --backgroundtertiary: 23,24,28;
   --backgroundfloating: 23,24,28;
   --settingsicons: 1;
 }
+
+/* Any custom CSS below here */
