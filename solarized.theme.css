@@ -1,0 +1,29 @@
+/**
+ * @name Solarized
+ * @description Solarized colorscheme
+ * @author idk who made it
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 108,113,196;
+  --accentcolor2: 211,54,130;
+  --linkcolor: 42,161,152;
+  --mentioncolor: 181,137,0;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: IBM Plex Sans;
+  --backgroundaccent: 50,89,99;
+  --backgroundprimary: 30,72,83;
+  --backgroundsecondary: 4,49,60;
+  --backgroundsecondaryalt: 4,49,60;
+  --backgroundtertiary: 0,43,54;
+  --backgroundfloating: 0,43,54;
+  --settingsicons: 1;
+}
