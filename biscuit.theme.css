@@ -1,0 +1,32 @@
+/**
+ * @name Biscuit Dark
+ * @description Cozy warm colorscheme for the forest dwellers, Dark!
+ * @author Tsukki
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 149,154,107;
+  --accentcolor2: 174,63,130;
+  --linkcolor: 117,109,148;
+  --mentioncolor: 227,156,69;
+  --textbrightest: 255,233,199;
+  --textbrighter: 238,217,194;
+  --textbright: 220,201,188;
+  --textdark: 200,183,171;
+  --textdarker: 182,166,155;
+  --textdarkest: 165,151,141;
+  --font: IBM Plex Sans;
+  --backgroundaccent: 114,90,90;
+  --backgroundprimary: 69,54,54;
+  --backgroundsecondary: 45,36,36;
+  --backgroundsecondaryalt: 45,36,36;
+  --backgroundtertiary: 26,21,21;
+  --backgroundfloating: 26,21,21;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
